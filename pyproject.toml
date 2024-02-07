@@ -23,6 +23,7 @@ matplotlib = "^3.8.2"
 seaborn = "^0.13.0"
 jpype1 = "^1.5.0"
 sktime = "^0.26.0"
+statsmodels = "^0.14.1"
 
 
 [build-system]
