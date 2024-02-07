@@ -22,6 +22,7 @@ bng-latlon = "^1.1"
 matplotlib = "^3.8.2"
 seaborn = "^0.13.0"
 jpype1 = "^1.5.0"
+sktime = "^0.26.0"
 
 
 [build-system]
