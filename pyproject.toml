@@ -22,9 +22,14 @@ bng-latlon = "^1.1"
 matplotlib = "^3.8.2"
 seaborn = "^0.13.0"
 jpype1 = "^1.5.0"
-sktime = "^0.26.0"
 statsmodels = "^0.14.1"
+scikit-learn = "^1.4.1.post1"
+pyarrow = "^15.0.0"
+dtaidistance = "^2.3.11"
 
+
+[tool.poetry.group.dev.dependencies]
+pandas = "^2.2.0"
 
 [build-system]
 requires = ["poetry-core"]
