@@ -169,3 +169,4 @@ cython_debug/
 #.idea/
 
 climate_change/data
+climate_change/trials
