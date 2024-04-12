@@ -9,6 +9,7 @@
 			"activityBar.background": "#46203E",
 			"titleBar.activeBackground": "#632D57",
 			"titleBar.activeForeground": "#FCF9FC"
-		}
-	}
+		},
+		"python.poetryPath": "/Users/massimilianoarca/Library/Caches/pypoetry/virtualenvs/climate-change-MEYtuKH4-py3.11/bin/python"
+	},
 }
