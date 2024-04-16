@@ -1,0 +1,12 @@
+{
+    "ignore": [
+        "**/*.nc",
+        "**/*.nc4",
+        "**/*.json",
+        "**/*.csv",
+        "**/*.xlsx",
+        "**/*.sqlite3",
+        
+    ],
+    "verboseOutput": true
+}
