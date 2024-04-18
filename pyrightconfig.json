@@ -6,6 +6,7 @@
         "**/*.csv",
         "**/*.xlsx",
         "**/*.sqlite3",
+        "**/*.git"
         
     ],
     "verboseOutput": true
