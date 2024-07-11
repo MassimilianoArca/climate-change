@@ -169,5 +169,6 @@ cython_debug/
 #.idea/
 
 climate_change/data
-climate_change/trials
+climate_change/tarragona/trials
+climate_change/berlin/trials
 climate_change/deliverable
