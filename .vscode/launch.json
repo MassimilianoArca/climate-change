@@ -11,6 +11,9 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
+            "env": {
+                "r_home": "/Applications/R.app/Contents/Resources",
+            }
         }
     ]
 }
