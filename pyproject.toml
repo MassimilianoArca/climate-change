@@ -50,6 +50,8 @@ dask = "^2024.7.0"
 geopandas = "^1.0.1"
 pymannkendall = "^1.4.3"
 pmdarima = "^2.0.4"
+kaleido = "0.2.1"
+jupyter-contrib-nbextensions = "^0.7.0"
 
 
 [tool.poetry.group.dev.dependencies]
