@@ -169,8 +169,11 @@ cython_debug/
 #.idea/
 
 climate_change/data
+climate_change/paper plots
 climate_change/tarragona/trials
 climate_change/berlin/trials
 climate_change/deliverable
 
 **/*.sqlite3
+**/*.pickle
+**/*.pkl

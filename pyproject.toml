@@ -53,6 +53,14 @@ pmdarima = "^2.0.4"
 kaleido = "0.2.1"
 jupyter-contrib-nbextensions = "^0.7.0"
 streamlit = "^1.37.1"
+networkx = "^3.3"
+torch = "^2.5.1"
+neuralforecast = "^1.7.5"
+datasetsforecast = "^0.0.8"
+hyperopt = "^0.2.7"
+quantnn = "^0.0.5"
+torchvision = "^0.20.1"
+tensorboard = "^2.18.0"
 
 
 [tool.poetry.group.dev.dependencies]
